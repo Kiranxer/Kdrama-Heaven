@@ -18,7 +18,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8816625790:AAEfVekof8lzrSwBdTCiz-55k3FI
 API_ID = int(os.environ.get("API_ID", "25462888"))
 API_HASH = os.environ.get("API_HASH", "dcf629af1bc903b05a120354aaeeecaa")
 
-OWNER_ID = int(os.environ.get("OWNER_ID", "7258467415"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7908181216"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://alyakiranxer:M9oQNl3Kpn9obuka@cluster0.2ivyyvh.mongodb.net/?appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "FileStoreNeon")
 
@@ -33,7 +33,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # --- Admins --- #
 ADMINS = [7908181216]
 try:
-    for x in os.environ.get("ADMINS", "841851780").split():
+    for x in os.environ.get("ADMINS", "7908181216").split():
         ADMINS.append(int(x))
 except ValueError:
     raise Exception("Your Admins list does not contain valid integers.")
