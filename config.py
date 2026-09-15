@@ -14,7 +14,7 @@ import os
 import logging
 
 # --- Bot Credentials --- #
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8834179148:AAH1lFOOK9M-yK9uz1YUX-aLQ59pyvmP4As")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8816625790:AAEfVekof8lzrSwBdTCiz-55k3FIl_bHlfk")
 API_ID = int(os.environ.get("API_ID", "32803246"))
 API_HASH = os.environ.get("API_HASH", "87759cd9acc932bc70413bbb1f65b259")
 
