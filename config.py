@@ -22,7 +22,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7908181216"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://alyakiranxer:M9oQNl3Kpn9obuka@cluster0.2ivyyvh.mongodb.net/?appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "FileStoreNeon")
 
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004472965009"))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004497495303"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003999122961"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1003999122961"))
 
