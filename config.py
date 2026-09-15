@@ -55,7 +55,7 @@ START_MSG = os.environ.get(
     "Gᴇᴛ Rᴇᴅɪʀᴇᴄᴛᴇᴅ Fʀᴏᴍ Cᴏʀʀᴇᴄᴛ Lɪɴᴋs Tᴏ Gᴇᴛ Tʜᴇ Fɪʟᴇs 🖇️</i></b>"
 )
 
-START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/6e5mpx.jpg")
+START_PIC = os.environ.get("START_PIC", "https://files.catbox.moe/i6wlle.png")
 
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
