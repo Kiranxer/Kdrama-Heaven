@@ -31,7 +31,7 @@ PORT = os.environ.get("PORT", "8080")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 # --- Admins --- #
-ADMINS = [7258467415]
+ADMINS = [7908181216]
 try:
     for x in os.environ.get("ADMINS", "841851780").split():
         ADMINS.append(int(x))
@@ -51,7 +51,7 @@ USER_REPLY_TEXT = "<b><i>Baka !! You are not my Senpai 😏</i></b>"
 START_MSG = os.environ.get(
     "START_MESSAGE",
     "<b><i>Hᴇʟʟᴏ {mention} ✨ \n\nI ᴀᴍ Pᴇʀᴍᴀɴᴇɴᴛ Fɪʟᴇ Sᴛᴏʀᴇ Bᴏᴛ.\n"
-    "Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ <a href=\"tg://user?id=841851780\">NᴇᴏɴAɴᴜʀᴀɢ</a>.\n\n"
+    "Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ <a href=\"tg://user?id=7908181216\">KiranXer</a>.\n\n"
     "Gᴇᴛ Rᴇᴅɪʀᴇᴄᴛᴇᴅ Fʀᴏᴍ Cᴏʀʀᴇᴄᴛ Lɪɴᴋs Tᴏ Gᴇᴛ Tʜᴇ Fɪʟᴇs 🖇️</i></b>"
 )
 
