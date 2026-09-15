@@ -19,8 +19,8 @@ API_ID = int(os.environ.get("API_ID", "25462888"))
 API_HASH = os.environ.get("API_HASH", "dcf629af1bc903b05a120354aaeeecaa")
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "7908181216"))
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://alyakiranxer:M9oQNl3Kpn9obuka@cluster0.2ivyyvh.mongodb.net/?appName=Cluster0")
-DB_NAME = os.environ.get("DB_NAME", "FileStoreNeon")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://kxr0291_db_user:LLajBmeVn4w9BYXg@cluster0.pm768wv.mongodb.net/?appName=Cluster0")
+DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004497495303"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003999122961"))
