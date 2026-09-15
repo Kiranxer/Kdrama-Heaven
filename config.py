@@ -15,8 +15,8 @@ import logging
 
 # --- Bot Credentials --- #
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8816625790:AAEfVekof8lzrSwBdTCiz-55k3FIl_bHlfk")
-API_ID = int(os.environ.get("API_ID", "32803246"))
-API_HASH = os.environ.get("API_HASH", "87759cd9acc932bc70413bbb1f65b259")
+API_ID = int(os.environ.get("API_ID", "25462888"))
+API_HASH = os.environ.get("API_HASH", "dcf629af1bc903b05a120354aaeeecaa")
 
 OWNER_ID = int(os.environ.get("OWNER_ID", "7258467415"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://alyakiranxer:M9oQNl3Kpn9obuka@cluster0.2ivyyvh.mongodb.net/?appName=Cluster0")
